@@ -39,7 +39,7 @@ The goal is to review the data to generate insights that can guide product impro
 
 ## 🛠 Tools Used
 
-- Excel ([Download](https://apps.microsoft.com/detail/9N4JH8NGJR9B?hl=en-us&gl=NG&ocid=pdpshare)
+- Excel ([Download](https://apps.microsoft.com/detail/9N4JH8NGJR9B?hl=en-us&gl=NG&ocid=pdpshare))
 
 ---
 
