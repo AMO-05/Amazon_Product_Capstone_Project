@@ -96,7 +96,7 @@ The following 14 business questions were addressed using PivotTables and formula
   `Alt + N + V`
 
 - **Custom Format for Revenue**:  
-  `$#,##0.00,, "M"`
+  `#,##0.00,, "k"`
 
 - **Calculated Columns**:
   - `Potential Revenue`: `=F2 * H2`
@@ -127,6 +127,8 @@ The following 14 business questions were addressed using PivotTables and formula
 ---
 
 ## 📷 Dashboard Previews
+### [Amazon Product Dashboard)
+[Amazon_Capstone_Project_Dashboard](https://github.com/user-attachments/assets/231ee634-cfd7-46a8-8fab-7b07a77b1737)
 
 
 
