@@ -49,6 +49,7 @@ Key actions taken:
 - Cleaned null/missing values
 - Removal of irrelevant columns
 - Formatting of joined text into properly spaced and capitalized text
+- Convert data to table: 'Ctrl + T', to have a functional Excel Table
 - Created calculated columns: `Rating_score`, `Price Bucket`, `Potential Revenue`
 
 ---
@@ -77,10 +78,17 @@ Questions answered:
 
 **Key measures used in the analysis:**
 
-- **Employee Below Minimum Pay Count**: Counts employees earning less than $90K  
-- **Below Minimum Pay %**: Measures gender gap below regulation  
-- **Meets/Exceeds Minimum Pay Count**: Counts those who meet the $90K salary mark  
-- **Gender Count Gap %**: `ABS(Male % - Female %)`  
+- **Convert data to table**: Data table was converted to Functional Excel Table, ('Ctrl + T')
+- **Product Category**: Extract text before the first pipe sign (=PROPER(SUBSTITUTE(LEFT(C2, FIND("|", C2)-1), "&", " & ")))
+- **Product Category**: Convert Formula Output to Static Text (Paste as Values, C2:C1465) 
+- **Pivot Table creation**: Creating a Pivot Table for data analysis via the Ribbon Method or shortcut, ('Alt + N + V')
+- **Discount Percentage by Product Category**: PivotTable Field List - Row: Product Category, Value: Discount_percetage
+- **Custom Format Code**: Formatting of values to reduce the millions represented thus - ('$#,##0.00,,, "k"') 
+- **Potential Revenue**: '(actual_price × rating_count)', ('=F2 * H2')
+- **Rating Score**: '(rating × rating_count)', ('=G2 * H2')
+- **Price Bucket**: '(=IF(D2<200,"<₹200",IF(D2<=500,"₹200–₹500",">₹500"))'
+- **Discount of 50% or more**: '(=COUNTIF(F2:F1465, ">=0.5"))'
+- **Fewer than 1000 reviews**: '(=COUNTIF(H2:H1465, "<1000"))'
 - **Gender Pay Gap %**: `(Average Male Salary – Average Female Salary) / Average Male Salary`  
 - **Bonus Amount**: Calculated as `Salary * Bonus %` based on Rating  
 - **Bonus %**: Pulled from department-specific rules using `SWITCH(TRUE(), LOOKUPVALUE(...))`
