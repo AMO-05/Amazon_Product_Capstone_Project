@@ -89,60 +89,42 @@ Questions answered:
 - **Price Bucket**: '(=IF(D2<200,"<₹200",IF(D2<=500,"₹200–₹500",">₹500"))'
 - **Discount of 50% or more**: '(=COUNTIF(F2:F1465, ">=0.5"))'
 - **Fewer than 1000 reviews**: '(=COUNTIF(H2:H1465, "<1000"))'
-- **Gender Pay Gap %**: `(Average Male Salary – Average Female Salary) / Average Male Salary`  
-- **Bonus Amount**: Calculated as `Salary * Bonus %` based on Rating  
-- **Bonus %**: Pulled from department-specific rules using `SWITCH(TRUE(), LOOKUPVALUE(...))`
+- **Sort & Filter**: Top 5 Products, highest numbers of reviews, products having discount 50% or more
+- **Pivot Table**: Average discount percentage, Products count, Total review count, Average actual price vs Average discounted price, Products listed under each Category, Total number of reviews by Category,Distribution of Products rating
+- **Charts** Bar Chart: Ave. discount by category, Column chart: Product count per category, Scatter plot: Rating vs Discount, Price bucket: Pie chart
 
 ---
 
 ## 🧠 Business Insights
 
-- Gender count gap: **18 employees (1.9%)**
-- Gender pay gap: **$2.2K (2.94%)**
-- Salary regulation non-compliance: **654 employees below $90K**
-- Bonus distribution: Male – 50.95%, Female – 49.05%
-- Region with highest gaps: **Kaduna**
-- Department with highest gender gap: **Legal**
+- Discount of 50% or more: **751 Products** 
+- Fewer than 1000 reviews: **327 products**
+- Products with highest discounts: **Computer & Accessories (0.94), Electoronic (0.91); Home & Kitchen (0.90)**
+- Top 5 products in rating & reviews: **Computer & Accessories, Electoronic; Home & Kitchen; Office Products; & Home Improvement**
 
 ---
 
 ## 📷 Dashboard Previews
 
-### [Gender Distribution]
-[Palmoria-HR-Dashboard_Gender_Distribution](https://github.com/user-attachments/assets/fa195441-27d5-4fa3-af60-cab4a942ce34)
 
-### [Rating by Gender]
-[Palmoria-HR-Dashboard_Rating](https://github.com/user-attachments/assets/564287b4-e956-4906-8130-b8e52cf912ae)
-
-### [Salary Structure & Banding]
-[Palmoria-HR-Dashboard_Salary_Structure](https://github.com/user-attachments/assets/3f54febd-c2dc-4979-9f7d-bcce5b3df135)
-
-### [Minimum Salary Compliance]
-[Palmoria-HR-Dashboard_Salary_compliance](https://github.com/user-attachments/assets/a4f6c453-edb3-4e57-b038-c17df74149c5)
-
-### [Bonus Distribution Insights]
-[Palmoria-HR-Dashboard_Bonus_Distribution](https://github.com/user-attachments/assets/1a5de18a-f8b9-4d44-8fbb-006f348f29d4)
 
 ---
 
 ## ✅ Recommendations
 
-- Address gender imbalance in **Kaduna** and **Legal department**
-- Review compensation structure to comply with the $90K minimum
-- Maintain fair and transparent bonus systems
+
 
 ---
 
 ## ⚠️ Limitations
 
-- Salary differences may be influenced by factors like experience or job level
-- Some department-specific gaps may reflect labor market availability
+
 
 ---
 
 ## 📚 References
 
-- Power BI Official Docs  
+- Amazon Excel file
 - Digital SkillUp Africa – DSA Incubator Program
 
 ---
