@@ -47,7 +47,9 @@ The goal is to review the data to generate insights that can guide product impro
 
 Key actions taken:
 - Cleaned null/missing values
-- Created conditional columns: `Salary Band`, `Salary Sort`, `Below Minimum`
+- Removal of irrelevant columns
+- Formatting of joined text into properly spaced and capitalized text
+- Created calculated columns: `Rating_score`, `Price Bucket`, `Potential Revenue`
 
 ---
 
