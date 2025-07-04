@@ -141,22 +141,22 @@ The following 14 business questions were addressed using PivotTables and formula
 [Product_count_by_category](https://github.com/user-attachments/assets/025a3c42-7ed8-4c15-9af7-268e909d766b)
 
 ### [Total Review by Category]
-![Total_review_per_category](https://github.com/user-attachments/assets/8aea7c1f-18fc-4c1a-8058-ad01f8497187)
+[Total_review_per_category](https://github.com/user-attachments/assets/8aea7c1f-18fc-4c1a-8058-ad01f8497187)
 
 ### [Price range Bucket]
-![Product_count_by_Price_bucket](https://github.com/user-attachments/assets/4dc2ba87-99be-4ffa-9d7f-3dc158f5a5d6)
+[Product_count_by_Price_bucket](https://github.com/user-attachments/assets/4dc2ba87-99be-4ffa-9d7f-3dc158f5a5d6)
 
 ### [Highest Discount by Category]
-![Highest_discount_by_category](https://github.com/user-attachments/assets/c4765a92-64d6-40a6-857c-31efb601fd92)
+[Highest_discount_by_category](https://github.com/user-attachments/assets/c4765a92-64d6-40a6-857c-31efb601fd92)
 
 ### [Potential Revenue by Categor]
-![Potential_Revenue_by_category](https://github.com/user-attachments/assets/c822b736-2e1c-45da-b523-cbb2317acb08)
+[Potential_Revenue_by_category](https://github.com/user-attachments/assets/c822b736-2e1c-45da-b523-cbb2317acb08)
 
 ### [Rating by Product Count]
-![Rating_by_product_count](https://github.com/user-attachments/assets/95d759ef-f34c-4afe-a5e0-4273972f2bf1)
+[Rating_by_product_count](https://github.com/user-attachments/assets/95d759ef-f34c-4afe-a5e0-4273972f2bf1)
 
 ### [Average Actual Price vs Average Discounted Price]
-![Avg_actual_price_vsAvg_discounted_price_Category](https://github.com/user-attachments/assets/6eb0097c-b5c3-453b-aad3-b633a5f932ba)
+[Avg_actual_price_vsAvg_discounted_price_Category](https://github.com/user-attachments/assets/6eb0097c-b5c3-453b-aad3-b633a5f932ba)
 
 ---
 
