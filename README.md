@@ -131,7 +131,7 @@ The following 14 business questions were addressed using PivotTables and formula
   - Electronics
   - Computers & Accessories
   - Home & Kitchen
- - **Top 3 highest Potential Product Revenue ** 
+- **Top 3 highest Potential Product Revenue** 
   - Electronics = 6,184k
   - Computers & Accessories = 5,029k
   - Home & Kitchen = 1,475k
