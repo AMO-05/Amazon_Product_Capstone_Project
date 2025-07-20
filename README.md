@@ -132,13 +132,13 @@ The following 14 business questions were addressed using PivotTables and formula
 
 ## 📷 Dashboard Previews
 ### [Amazon Product Dashboard)
-<img width="1283" height="717" alt="Amazon_Dashboard_pg1" src="https://github.com/user-attachments/assets/64def7f6-ca12-4125-97b9-93cff78ad37f" />
-<img width="1282" height="702" alt="Amazon_Dashboard_pg2" src="https://github.com/user-attachments/assets/f8661a42-7980-4f70-a2c0-ad401d062b10" />
 
-[Amazon_Capstone_Project_Dashboard](https://github.com/user-attachments/assets/231ee634-cfd7-46a8-8fab-7b07a77b1737)
+<img width="1286" height="719" alt="Amazon_Dashboard_pg1" src="https://github.com/user-attachments/assets/3a78728a-db38-4246-84f6-3e0cb407461f" />
+
+<img width="1284" height="699" alt="Amazon_Dashboard_pg2" src="https://github.com/user-attachments/assets/bb660c36-9b29-4bb3-83c8-d91603e039fb" />
 
 ### [Average Discount percentage by Category]
-<img width="425" height="318" alt="Average_discount%_per_category" src="https://github.com/user-attachments/assets/d3025360-79ee-4bf8-aa92-f4fff1904d1c" />
+<img width="425" height="318" alt="Average_discount%_per_category" src="https://github.com/user-attachments/assets/7b75be70-ae5f-4ab6-a5c1-d8fec42297c1" />
 
 ### [Product Count per Category]
 <img width="413" height="311" alt="Product_count_by_category" src="https://github.com/user-attachments/assets/8f68e197-a65f-4ccd-98d1-8d026a465101" />
