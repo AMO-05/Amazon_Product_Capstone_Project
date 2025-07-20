@@ -118,16 +118,23 @@ The following 14 business questions were addressed using PivotTables and formula
   - Electronics: 91%
   - Home & Kitchen: 90%
 - **Top 5 high-performing categories** by combined ratings and reviews:
-  - Computers & Accessories
   - Electronics
+  - Computers & Accessories
   - Home & Kitchen
   - Office Products
-  - Home Improvement
+  - Musical Instruments
 - **Top 3 Products with highest number of reviews** 
   - Computers & Accessories
   - Home & Kitchen
   - Electronics
- 
+- **Top 3 highest Products rating** 
+  - Electronics
+  - Computers & Accessories
+  - Home & Kitchen
+ - **Top 3 highest Potential Product Revenue ** 
+  - Electronics = 6,184k
+  - Computers & Accessories = 5,029k
+  - Home & Kitchen = 1,475k
 ---
 
 ## 📷 Dashboard Previews
@@ -141,10 +148,10 @@ The following 14 business questions were addressed using PivotTables and formula
 <img width="425" height="318" alt="Average_discount%_per_category" src="https://github.com/user-attachments/assets/7b75be70-ae5f-4ab6-a5c1-d8fec42297c1" />
 
 ### [Product Count per Category]
-<img width="413" height="311" alt="Product_count_by_category" src="https://github.com/user-attachments/assets/8f68e197-a65f-4ccd-98d1-8d026a465101" />
+<img width="417" height="315" alt="Product_count_by_category" src="https://github.com/user-attachments/assets/2a020d43-9cc5-499b-9684-ecf9c95aa750" />
 
 ### [Total Review by Category]
-<img width="427" height="316" alt="Total_review_per_category" src="https://github.com/user-attachments/assets/49c9fff8-146e-408f-8cd0-9ae7b0e6f8f8" />
+<img width="426" height="316" alt="Total_review_per_category" src="https://github.com/user-attachments/assets/c08b776c-d04a-43df-a547-4c2cf1aff432" />
 
 ### [Price range Bucket]
 <img width="425" height="310" alt="Product_count_by_Price_bucket" src="https://github.com/user-attachments/assets/ef12e54b-424f-493f-a814-8dde419d87a6" />
@@ -153,7 +160,7 @@ The following 14 business questions were addressed using PivotTables and formula
 <img width="430" height="318" alt="Highest_discount_by_category" src="https://github.com/user-attachments/assets/86b9be57-d8b4-407f-b002-ceba172ec82a" />
 
 ### [Potential Revenue by Category]
-<img width="415" height="283" alt="Potential_Revenue_by_category" src="https://github.com/user-attachments/assets/96e807a0-25b7-468c-b91f-0ae2a19c7dc1" />
+<img width="417" height="282" alt="Potential_Revenue_by_category" src="https://github.com/user-attachments/assets/e5a1ad4f-6160-4eb8-8f88-1821590572bd" />
 
 ### [Rating by Product Count]
 <img width="420" height="283" alt="Rating by Product_Count" src="https://github.com/user-attachments/assets/04c5c32b-4681-4dfd-bfb6-0df968337911" />
@@ -162,23 +169,22 @@ The following 14 business questions were addressed using PivotTables and formula
 <img width="431" height="309" alt="Rating_relating_to_the_level_of_Discount" src="https://github.com/user-attachments/assets/948af6c2-3f36-42d0-ac78-553fd1e7dab1" />
 
 ### [Average Actual Price vs Average Discounted Price]
-<img width="427" height="311" alt="Average_actualprice_Average_Discountedprice" src="https://github.com/user-attachments/assets/05ce4952-f4f8-47a1-84b9-fd4d8c123162" />
+<img width="427" height="311" alt="Average_actualprice_Average_Discountedprice" src="https://github.com/user-attachments/assets/cfbe147b-8df0-42c9-b7b0-14968c36e903" />
 
 ### [Highest Average Rating by Products]
 <img width="436" height="308" alt="Highest_average_product_rating" src="https://github.com/user-attachments/assets/02c2ca2d-7f86-4963-8dba-2729191349ab" />
 
 ### [Products with highest number of Reviews]
-<img width="419" height="310" alt="Product_with_highest _number_of_review" src="https://github.com/user-attachments/assets/232ddcf0-698c-4d26-a8e4-b5cb9302e942" />
+<img width="419" height="311" alt="Product_with_highest _number_of_review" src="https://github.com/user-attachments/assets/73e783e9-2f56-4fe5-8d86-eaff8d6d1dcd" />
 
 ### [Top 5 Products by Rating & Reviews Combined]
-<img width="437" height="285" alt="Top5_Product_by_Rating_Review_Combined" src="https://github.com/user-attachments/assets/0941c356-2317-47fd-882e-16f064aa3018" />
-
+<img width="434" height="283" alt="Top5_Product_by_Rating_Review_Combined" src="https://github.com/user-attachments/assets/9eb2a4b7-df2d-4502-9183-87ab1efb203c" />
 
 ---
 
 ## ✅ Recommendations
 
-- Focus marketing on top-performing categories (e.g., Computers & Accessories, & Electronics)
+- Focus marketing on top-performing categories (e.g., Electronics,Computers & Accessories, & Home Kitchen)
 - Re-target underperforming products with high discounts but low reviews
 - Encourage more reviews for high-rating products with fewer than 1,000 ratings
 - Consider adjusting pricing strategies for products in low-revenue buckets
