@@ -145,7 +145,7 @@ The following 14 business questions were addressed using PivotTables and formula
 <img width="1284" height="699" alt="Amazon_Dashboard_pg2" src="https://github.com/user-attachments/assets/bb660c36-9b29-4bb3-83c8-d91603e039fb" />
 
 ### [Average Discount percentage by Category]
-<img width="425" height="318" alt="Average_discount%_per_category" src="https://github.com/user-attachments/assets/7b75be70-ae5f-4ab6-a5c1-d8fec42297c1" />
+<img width="425" height="316" alt="Average_discount%_per_category" src="https://github.com/user-attachments/assets/b5c0b7ed-099e-486d-8c83-aa34ce52624e" />
 
 ### [Product Count per Category]
 <img width="417" height="315" alt="Product_count_by_category" src="https://github.com/user-attachments/assets/2a020d43-9cc5-499b-9684-ecf9c95aa750" />
